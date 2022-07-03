@@ -23,7 +23,7 @@
  ---
   ### 👨‍💻 About Me :
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I'm a Computer Science Student and I'm making an internship as a Software Developer.
+  - :telescope: I'm a Computer Science Student and I'm making an internship as a Software Developer.
   
   - :zap: In my spare time, I study cibersecurity and I like to read, draw and play some music.
   
