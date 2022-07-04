@@ -25,7 +25,7 @@
   
   - :telescope: I'm a Computer Science Student and I'm making an internship as a Software Developer.
   
-  - :zap: In my spare time, I study cibersecurity and I like to read, draw and play some music.
+  - :zap: In my spare time, I study [cibersecurity](https://tryhackme.com/p/bifr0st) and I like to read, draw and play some music.
   
   ---
 
