@@ -23,9 +23,9 @@
  ---
   ### 👨‍💻 About Me :
   
-  - :telescope: I'm a Computer Science Student currently making an internship as a Machine Learning Engineer.
+  - :telescope: Currently, I'm working as a Machine Learning Engineer, focusing more on Computer Vision.
   
-  - :zap: In my spare time I study [cibersecurity](https://tryhackme.com/p/bifr0st), Machine Learning and I like to read, draw and play some music.
+  - :zap: In my spare time I study [cibersecurity](https://tryhackme.com/p/bifr0st), Machine Learning, Game Development and I like to read, draw and play some music.
   
   ---
 
