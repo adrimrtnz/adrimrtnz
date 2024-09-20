@@ -52,6 +52,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?adrimrtnz=DenverCoder1)](https://git.io/streak-stats)
+![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![adrimrtnz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrimrtnz&theme=vue-dark&hide_border=true)
+![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
