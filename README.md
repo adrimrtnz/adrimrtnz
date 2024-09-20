@@ -54,10 +54,10 @@
 ### :fire: My Stats :
 <div align="center">
   
-  ![adrimrtnz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrimrtnz&theme=vue-dark&hide_border=true)
+  ![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-  ![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  
+  ![adrimrtnz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrimrtnz&theme=vue-dark&hide_border=true)
   
 </div>
