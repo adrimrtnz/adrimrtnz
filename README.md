@@ -15,13 +15,13 @@
   
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="40px"/>
   </h1>
   
 </div>
 
  ---
-  ### 👨‍💻 About Me :
+  ### <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="40px"/> About Me :
   
   - :telescope: Currently, I'm working as a Machine Learning Engineer, focusing more on Computer Vision.
   
@@ -29,7 +29,7 @@
   
   ---
 
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" height="40px"/> Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### :fire: My Stats :
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="40px"/> My Stats :
 <div align="center">
   
   ![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
