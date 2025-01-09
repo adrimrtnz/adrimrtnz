@@ -58,6 +58,6 @@
   
   ![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-  ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&rank_icon=github&show_icons=true&hide_border=true&count_private=true)
     
 </div>
