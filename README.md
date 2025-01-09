@@ -60,6 +60,6 @@
 
   ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrimrtnz)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adrimrtnz" alt="GitHub Streak" /></a>
     
 </div>
