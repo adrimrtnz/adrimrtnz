@@ -59,8 +59,7 @@
   ![adrimrtnz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-  ![adrimrtnz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrimrtnz&theme=vue-dark&hide_border=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=adrimrtnz)](https://git.io/streak-stats)
-  
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrimrtnz)](https://git.io/streak-stats)
+    
 </div>
