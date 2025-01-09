@@ -61,5 +61,6 @@
   ![adrimrtnz's Stats](https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   
   ![adrimrtnz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrimrtnz&theme=vue-dark&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=adrimrtnz)](https://git.io/streak-stats)
   
 </div>
