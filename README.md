@@ -23,9 +23,11 @@
  ---
   ### <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="40px"/> About Me :
   
-  - :telescope: Currently, I'm working as a Machine Learning Engineer, focusing more on Computer Vision.
-  
-  - :zap: In my spare time I study [cibersecurity](https://tryhackme.com/p/bifr0st), Maths, Game Development and I like to read, draw and play some music.
+- :telescope: I'm a Machine Learning Engineer, with a strong background in mathematics and low-level programming.
+
+- 🧪 I enjoy building intelligent systems, from model training and optimization to deployment.
+
+- 🛡:zap: In my free time, I explore cybersecurity challenges, build games, and dig deep into topics like theoretical computer science, generative art, or analog synthesis.
   
   ---
 
