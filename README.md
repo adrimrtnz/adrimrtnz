@@ -27,7 +27,7 @@
 
 - 🧪 I enjoy building intelligent systems, from model training and optimization to deployment.
 
-- 🛡:zap: In my free time, I explore cybersecurity challenges, build games, and dig deep into topics like theoretical computer science, generative art, or analog synthesis.
+- :zap: In my free time, I explore cybersecurity challenges, build games, and dig deep into topics like theoretical computer science, generative art, or analog synthesis.
   
   ---
 
