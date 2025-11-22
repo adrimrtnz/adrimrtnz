@@ -23,7 +23,7 @@
  ---
   ### <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="40px"/> About Me :
   
-- :telescope: I'm a Machine Learning Engineer, with a strong background in mathematics and low-level programming.
+- :telescope: I'm a Data Scientist with a strong background in mathematics and low-level programming.
 
 - 🧪 I enjoy building intelligent systems, from model training and optimization to deployment.
 
