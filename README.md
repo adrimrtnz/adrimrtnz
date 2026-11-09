@@ -58,8 +58,8 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40px"/> My Stats :
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrimrtnz&theme=vue-dark&hide_border=true&layout=compact" alt="adrimrtnz's Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=adrimrtnz&theme=vue_dark" alt="adrimrtnz's Top Languages"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adrimrtnz&theme=vue-dark&rank_icon=github&show_icons=true&hide_border=true&include_all_commits=true" alt="adrimrtnz's Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrimrtnz&theme=vue_dark" alt="adrimrtnz's Stats"/>
 
 </div>
